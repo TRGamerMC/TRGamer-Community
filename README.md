@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" style="width: 320px" src="https://cdn.serverbutik.com.tr/XeP8UY.png" /> </p> <br />
+<p align="center"> <img align="center" style="width: 320px" src="https://cdn.datafex.com.tr/XeP8UY.png" /> </p> <br />
 
 <div align="center">
 <b>TRGamer Network Community Github Repository</b>
